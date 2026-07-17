@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yara-parties.sa/sitemap.xml
+Sitemap: https://yara-parties-buraydah.vercel.app/sitemap.xml
