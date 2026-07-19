@@ -1,5 +1,5 @@
 /**
- * يارا للحفلات — Main JavaScript
+ * وسط البلد للحفلات — Main JavaScript
  * Navigation · Scroll effects · Lightbox · Contact form · UX helpers
  */
 (function () {
